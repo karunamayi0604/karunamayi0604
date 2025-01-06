@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Data+Scientist+Girl+Saying+Hi+with+Cooling+Glasses" 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F7469653%2Fdata_scientist_female_avatar_person_woman_icon&psig=AOvVaw2a0-eL3qjmkZWyMYt8cg0K&ust=1736273177657000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCLoOLX4YoDFQAAAAAdAAAAABAE" 
        alt="Data Scientist Girl Saying Hi with Cooling Glasses" 
        width="100%" />
 </div>
