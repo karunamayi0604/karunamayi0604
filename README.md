@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner" width="100%" />
+  <img src="https://via.placeholder.com/1200x300?text=Data+Scientist+Girl+Saying+Hi+with+Cooling+Glasses" 
+       alt="Data Scientist Girl Saying Hi with Cooling Glasses" 
+       width="100%" />
 </div>
+
 
 <h1 align="center">👋 Hi there! I'm Karunamay!</h1>
 <p align="center">
